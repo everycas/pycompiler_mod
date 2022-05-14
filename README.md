@@ -1,5 +1,7 @@
 # Pyinstaller script
-Script for automation python project compilation using pyinstaller
+
+pyinst.pyw - this is a script for automation python project compilation using pyinstaller.
+Makes compillation easier.
 
 Instruction
 
