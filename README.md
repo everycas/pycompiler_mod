@@ -1,12 +1,21 @@
-# Pyinstaller script
+Lang: python 3.9 / OS Win 10
 
-pyinst.pyw - this is a script for automation python project compilation using pyinstaller.
+Project name:
+
+# Pyinstaller Compiler
+
+Project goal:
+
 Makes compillation easier.
 
-Instruction
+Structure:
 
-1. Copy pyinst.pyw to your python project folder;
-2. In your python project folder: pip install pyinstaller
-3. Run pyinst.pyw;
-4. Select your *.py, *.pyw file for compillation;
-5. Your project compillation result will be written in \dist folder.
+1. pyinst.pyw - main functionality / gui module.
+
+Instruction:
+
+- Copy pyinst.pyw to your python project folder;
+- In your python project folder: pip install pyinstaller
+- Run pyinst.pyw;
+- Select your *.py, *.pyw file for compillation;
+- Your project compillation result will be written in \dist folder.
