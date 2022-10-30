@@ -4,15 +4,11 @@ Project name:
 
 # Pyinstaller Compiler
 
-Project goal:
+Project goal: Makes compillation easier.
 
-Makes compillation easier.
+Structure: pyinst.pyw - main functionality / gui module.
 
-Structure:
-
-1. pyinst.pyw - main functionality / gui module.
-
-Instruction:
+# Instruction:
 
 - Copy pyinst.pyw to your python project folder;
 - In your python project folder: pip install pyinstaller
