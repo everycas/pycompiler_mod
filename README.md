@@ -1,7 +1,5 @@
 Lang: python 3.9 / OS Win 10
 
-Project name:
-
 # Pyinstaller Compiler
 
 Project goal: Makes compillation easier.
