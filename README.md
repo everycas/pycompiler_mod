@@ -1,8 +1,8 @@
-Lang: python 3.9 / OS Win 10
+Python 3.9 / OS Win 10
 
-# Pyinstaller Compiler
+# Python Compiler
 
-Project goal: Makes compillation easier.
+Goal: Makes python compillation using pyinstaller easier.
 
 Structure: pyinst.pyw - main functionality / gui module.
 
